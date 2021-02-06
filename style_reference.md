@@ -1,17 +1,32 @@
 ---
-title: Cheatsheet styles
-category: cheatcheetah
-tags: cheatcheet
-intro: This is a reference of all the styles that you can use in your cheatsheets.
+title: Cheatsheet's styling options reference
+category: help
+intro: |
+  A full reference of styles available for your cheat sheets.
+keywords:
+  - Help
+  - Cheat sheet style
+  - Cheat sheet styling
 origin: https://github.com/rstacruz/cheatsheets/blob/master/cheatsheet-styles.md
 ---
 
-Intro
------
+# Extended cheat sheet reference
 
-Variants
---------
+This cheatsheet is a complete reference of all the supported display options!
+
+### Reminder
+{: .-intro}
+
+For more context, check out these help cheat-sheets:
+
+- [What is markdown?](#todo)
+- [How do I create my own cheatsheet?](##todo)
+- [Quick reference](#todo)
+
+## Supported elements
 {: .-three-column}
+
+This section list all the markdown elements used to render cheat sheests.
 
 ### H2 sections
 
