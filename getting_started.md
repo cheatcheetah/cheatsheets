@@ -25,7 +25,7 @@ CheatCheetah generates the good looking version and makes them available to anyo
 
 Markdown is a lightweight markup language that you can use to add formatting elements to plaintext text documents.
 
-- [More info on markdown](https://www.markdownguide.org/getting-started/) _markdownguide.org/getting-started_
+- [Mastering markdown](https://guides.github.com/features/mastering-markdown/) _guides.github.com_
 
 
 ## Create your first cheat sheet!
